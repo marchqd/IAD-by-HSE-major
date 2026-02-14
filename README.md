@@ -12,8 +12,8 @@
 | Name | Description | Status |
 | ------------- | ------------- | ------------- |
 | [work_1](homework_01_Литвинова_Мария_ИАД1_2-3.ipynb) | Полносвязные сети | ✅ |
-| [work_2](Homeworks/hw_2_linear_models.ipynb) | Работа с изображениями  | ✅ |
-| [work_3](Homeworks/hw_3_kaggle.ipynb) | Детекция объектов | ✅ |
+| [work_2](homework_02_Litvinova_Mariia_IAD1.ipynb) | Работа с изображениями  | ✅ |
+| [work_3]() | Детекция объектов | ✅ |
 | ... |  | ⏱️ |
 | ... |  | ⏱️ |
 | ... | бестолочь | ⏱️ |
