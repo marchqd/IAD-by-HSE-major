@@ -1,12 +1,9 @@
-# 🧠 IAD by HSE major
+# IAD by HSE
 
 
 
-## 📚 О репозитории
 
-
-
-## 🗂️ Структура
+## Структура
 
 
 | Name | Description | Status |
